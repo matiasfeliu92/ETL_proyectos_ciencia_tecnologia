@@ -1,0 +1,9 @@
+pandas
+requests
+beautifulsoup4
+sqlalchemy
+psycopg2
+python-dotenv
+jupyter
+lxml
+pymysql
